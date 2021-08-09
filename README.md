@@ -10,4 +10,4 @@ $ python Social-Media-Checker.py
 
 ## Sample :-
 
-(https://github.com/imrahulkant/social-media-checker/blob/master/demo.png)
+![Demo ](https://github.com/imrahulkant/social-media-checker/blob/master/demo.png)
